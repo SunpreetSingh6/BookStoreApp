@@ -1,0 +1,24 @@
+# dependencies
+book-store/node_modules
+Backend/node_modules
+book-store/.pnp
+book-store/.pnp.js
+
+# testing
+book-store/coverage
+
+# production
+book-store/build
+
+# misc
+book-store/.DS_Store
+book-store/.env.local
+book-store/.env.development.local
+book-store/.env.test.local
+book-store/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+[A[B
